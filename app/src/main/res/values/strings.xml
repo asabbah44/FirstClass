@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstClass</string>
+    <string-array name="listdata">
+        <item>C#</item>
+        <item> Java</item>
+    </string-array>
+</resources>
